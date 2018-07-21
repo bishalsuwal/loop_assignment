@@ -1,0 +1,51 @@
+     1	.
+     2	├── assignment
+     3	│   ├── test1
+     4	│   │   ├── cpu.txt
+     5	│   │   ├── file1.sh
+     6	│   │   ├── file2.sh
+     7	│   │   └── mem.txt
+     8	│   ├── test2
+     9	│   │   ├── cpu.txt
+    10	│   │   ├── file1.sh
+    11	│   │   ├── file2.sh
+    12	│   │   └── mem.txt
+    13	│   ├── test3
+    14	│   │   ├── cpu.txt
+    15	│   │   ├── file1.sh
+    16	│   │   ├── file2.sh
+    17	│   │   └── mem.txt
+    18	│   ├── test4
+    19	│   │   ├── cpu.txt
+    20	│   │   ├── file1.sh
+    21	│   │   ├── file2.sh
+    22	│   │   └── mem.txt
+    23	│   ├── test5
+    24	│   │   ├── cpu.txt
+    25	│   │   ├── file1.sh
+    26	│   │   ├── file2.sh
+    27	│   │   └── mem.txt
+    28	│   ├── test6
+    29	│   │   ├── cpu.txt
+    30	│   │   ├── file1.sh
+    31	│   │   ├── file2.sh
+    32	│   │   └── mem.txt
+    33	│   ├── test7
+    34	│   │   ├── cpu.txt
+    35	│   │   ├── file1.sh
+    36	│   │   ├── file2.sh
+    37	│   │   └── mem.txt
+    38	│   ├── test8
+    39	│   │   ├── cpu.txt
+    40	│   │   ├── file1.sh
+    41	│   │   ├── file2.sh
+    42	│   │   └── mem.txt
+    43	│   └── test9
+    44	│       ├── cpu.txt
+    45	│       ├── file1.sh
+    46	│       ├── file2.sh
+    47	│       └── mem.txt
+    48	├── a.txt
+    49	└── test.sh
+    50	
+    51	10 directories, 38 files
